@@ -7,8 +7,6 @@
 ### Detecor.py uses the YOLO object detection model by default but can be changed
 
 import cv2 
-import os 
-import time
 import numpy as np
 
 ## adjust Threshold Value According to Desired Specification
